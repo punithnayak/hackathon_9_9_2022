@@ -4,3 +4,4 @@
 
 A simple OCR (optical character recognition) application using React, Express & Tesseract. Supported packages: Semantic UI React & React Webcam. It can be used to recognize characters from uploaded image or captured photo. 
 
+A hackathon project 
